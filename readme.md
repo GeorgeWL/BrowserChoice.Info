@@ -5,8 +5,9 @@ that will attempt to resolve the shortcomings of the original site.
 
 >In December 2014, Microsoft's obligation to display the Browser Choice screen to Windows users expired. Consequently, the BrowserChoice.eu website was discontinued, only showing a notice advising users to "[visit] the websites of web browser vendors directly". As of July 2015, the site is offline.
 
-#Reasoning
-Needs completing.
+# Reasoning
+
+**Needs completing.**
 1. ????
 1. I feel like in recreating and popularising the website, less tech-savvy users may become aware of what browser choices there are, and so the competition between browsers may cause new and exciting innovations.
 1. ???
